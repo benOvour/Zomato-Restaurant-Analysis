@@ -16,7 +16,7 @@ This **interactive Power BI dashboard** provides a **comprehensive analysis** of
 - **DAX & Power Query** – Data transformation and aggregation.  
 
 ## 📸 Dashboard Preview  
-![Dashboard Preview](path/to/your/image.png) *(Replace with actual image path in your repo)*  
+![Dashboard Preview](Zomato-Restaurant-Analysis/Screenshot 2025-02-02 224839.png) 
 
 ## 🚀 How to Use  
 1. Clone the repository:  
